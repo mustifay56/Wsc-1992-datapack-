@@ -1,0 +1,305 @@
+# ====================================================================
+# WORLD SOCCER CHAMPS - 1992/1993 RETRO MEGA DATA PACK WITH PLAYERS
+# ====================================================================
+
+[ORGANIZATIONS]
+COMP_CL, UEFA Champions League, UCL
+COMP_EL, UEFA Cup, UC
+COMP_CWC, UEFA Cup Winners' Cup, CWC
+
+[TEAMS]
+# --------------------------------------------------------------------
+# TURKEY (1. LİG & 2. LİG - 1992/1993)
+# --------------------------------------------------------------------
+TR_T1_1, Galatasaray, GAL
+TR_T1_2, Beşiktaş, BJK
+TR_T1_3, Trabzonspor, TS
+TR_T1_4, Fenerbahçe, FB
+TR_T1_5, Kocaelispor, KOC
+TR_T1_6, Bursaspor, BUR
+TR_T1_7, Altay, ALT
+TR_T1_8, Gaziantepspor, GAZ
+TR_T1_9, MKE Ankaragücü, AGÜ
+TR_T1_10, Sarıyer, SAR
+TR_T1_11, Gençlerbirliği, GB
+TR_T1_12, Karşıyaka, KSK
+TR_T1_13, Kayserispor, KAY
+TR_T1_14, Bakırköyspor, BAK
+TR_T1_15, Konyaspor, KON
+TR_T1_16, Aydınspor, AYD
+
+TR_T2_1, Samsunspor, SAM
+TR_T2_2, Karabükspor, KRB
+TR_T2_3, Denizlispor, DEN
+TR_T2_4, Sakaryaspor, SAK
+TR_T2_5, Antalyaspor, ANT
+TR_T2_6, Göztepe, GÖZ
+TR_T2_7, Eskişehirspor, ESK
+TR_T2_8, Adana Demirspor, ADS
+TR_T2_9, Adanaspor, ADA
+TR_T2_10, Mersin İdman Yurdu, MİY
+TR_T2_11, Zonguldakspor, ZON
+TR_T2_12, Orduspor, ORD
+TR_T2_13, Malatyaspor, MAL
+TR_T2_14, Çaykur Rizespor, RİZ
+TR_T2_15, Diyarbakırspor, DIY
+TR_T2_16, Boluspor, BOL
+
+# --------------------------------------------------------------------
+# ENGLAND (PREMIER LEAGUE & DIVISION ONE)
+# --------------------------------------------------------------------
+ENG_T1_1, Manchester United, MUN
+ENG_T1_2, Aston Villa, AVL
+ENG_T1_3, Norwich City, NOR
+ENG_T1_4, Blackburn Rovers, BLA
+ENG_T1_5, Queens Park Rangers, QPR
+ENG_T1_6, Liverpool, LIV
+ENG_T1_7, Sheffield Wednesday, SHW
+ENG_T1_8, Tottenham Hotspur, TOT
+ENG_T1_9, Manchester City, MNC
+ENG_T1_10, Arsenal, ARS
+ENG_T1_11, Chelsea, CHE
+ENG_T1_12, Wimbledon, WIM
+ENG_T1_13, Everton, EVE
+ENG_T1_14, Sheffield United, SHU
+ENG_T1_15, Coventry City, COV
+ENG_T1_16, Ipswich Town, IPS
+ENG_T1_17, Leeds United, LEE
+ENG_T1_18, Southampton, SOU
+ENG_T1_19, Oldham Athletic, OLD
+ENG_T1_20, Crystal Palace, CRY
+ENG_T1_21, Middlesbrough, MID
+ENG_T1_22, Nottingham Forest, NOT
+
+ENG_T2_1, Newcastle United, NEW
+ENG_T2_2, West Ham United, WHU
+ENG_T2_3, Portsmouth, POR
+ENG_T2_4, Leicester City, LEI
+ENG_T2_5, Swindon Town, SWI
+ENG_T2_6, Derby County, DER
+ENG_T2_7, Wolverhampton Wanderers, WOL
+ENG_T2_8, Charlton Athletic, CHA
+ENG_T2_9, Tranmere Rovers, TRA
+ENG_T2_10, Millwall, MIL
+ENG_T2_11, Watford, WAT
+ENG_T2_12, Grimsby Town, GRI
+ENG_T2_13, Peterborough United, PET
+ENG_T2_14, Oxford United, OXF
+ENG_T2_15, Bristol City, BRC
+ENG_T2_16, Southend United, SEU
+ENG_T2_17, Birmingham City, BIR
+ENG_T2_18, Luton Town, LUT
+ENG_T2_19, Notts County, NTC
+ENG_T2_20, Bristol Rovers, BRR
+ENG_T2_21, Brentford, BRE
+ENG_T2_22, Cambridge United, CAM
+ENG_T2_23, Plymouth Argyle, PLY
+ENG_T2_24, Sunderland, SUN
+
+# --------------------------------------------------------------------
+# ITALY (SERIE A & SERIE B)
+# --------------------------------------------------------------------
+ITA_T1_1, AC Milan, MIL
+ITA_T1_2, Internazionale, INT
+ITA_T1_3, Parma, PAR
+ITA_T1_4, Juventus, JUV
+ITA_T1_5, Lazio, LAZ
+ITA_T1_6, Cagliari, CAG
+ITA_T1_7, Sampdoria, SAM
+ITA_T1_8, Atalanta, ATA
+ITA_T1_9, Torino, TOR
+ITA_T1_10, AS Roma, ROM
+ITA_T1_11, Napoli, NAP
+ITA_T1_12, Foggia, FOG
+ITA_T1_13, Genoa, GEN
+ITA_T1_14, Udinese, UDI
+ITA_T1_15, Fiorentina, FIO
+ITA_T1_16, Ancona, ANC
+ITA_T1_17, Pescara, PES
+ITA_T1_18, Brescia, BRE
+
+ITA_B1_1, Reggiana, REG
+ITA_B1_2, Cremonese, CRE
+ITA_B1_3, Lecce, LEC
+ITA_B1_4, Piacenza, PIA
+ITA_B1_5, Padova, PAD
+ITA_B1_6, Ascoli, ASC
+ITA_B1_7, Cosenza, COS
+ITA_B1_8, Pisa, PIS
+ITA_B1_9, SPAL, SPA
+ITA_B1_10, Bologna, BOL
+
+# --------------------------------------------------------------------
+# SPAIN (LA LIGA & SEGUNDA DIVISION)
+# --------------------------------------------------------------------
+ESP_T1_1, FC Barcelona, BAR
+ESP_T1_2, Real Madrid, RMA
+ESP_T1_3, Deportivo La Coruña, DEP
+ESP_T1_4, Valencia CF, VAL
+ESP_T1_5, Atlético Madrid, ATM
+ESP_T1_6, Sevilla FC, SEV
+ESP_T1_7, Tenerife, TEN
+ESP_T1_8, Real Sociedad, RSO
+ESP_T1_9, Real Zaragoza, ZAR
+ESP_T1_10, Real Oviedo, OVI
+
+ESP_T2_1, Real Valladolid, VAD
+ESP_T2_2, Racing Santander, RAC
+ESP_T2_3, Real Betis, BET
+ESP_T2_4, RCD Mallorca, MAL
+
+# --------------------------------------------------------------------
+# GERMANY (BUNDESLIGA & 2. BUNDESLIGA)
+# --------------------------------------------------------------------
+GER_T1_1, Werder Bremen, SVW
+GER_T1_2, Bayern München, FCB
+GER_T1_3, Eintracht Frankfurt, SGE
+GER_T1_4, Borussia Dortmund, BVB
+GER_T1_5, Bayer Leverkusen, B04
+GER_T1_6, Hamburger SV, HSV
+
+GER_T2_1, SC Freiburg, SCF
+GER_T2_2, MSV Duisburg, MSV
+
+# --------------------------------------------------------------------
+# FRANCE (DIVISION 1 & DIVISION 2)
+# --------------------------------------------------------------------
+FRA_T1_1, Olympique de Marseille, OM
+FRA_T1_2, Paris Saint-Germain, PSG
+FRA_T1_3, AS Monaco, ASM
+FRA_T1_4, Girondins de Bordeaux, BOR
+
+FRA_T2_1, Stade Rennais, REN
+FRA_T2_2, FC Metz, MET
+
+# --------------------------------------------------------------------
+# NETHERLANDS (EREDIVISIE & EERSTE DIVISIE)
+# --------------------------------------------------------------------
+NED_T1_1, Feyenoord, FEY
+NED_T1_2, PSV Eindhoven, PSV
+NED_T1_3, Ajax Amsterdam, AJX
+
+NED_T2_1, VVV-Venlo, VVV
+NED_T2_2, SC Heerenveen, HEE
+
+# --------------------------------------------------------------------
+# PORTUGAL (PRIMEIRA DIVISAO & SEGUNDA DIVISAO)
+# --------------------------------------------------------------------
+POR_T1_1, FC Porto, FCP
+POR_T1_2, SL Benfica, SLB
+POR_T1_3, Sporting CP, SCP
+
+POR_T2_1, Vitória Setúbal, VFC
+
+# ====================================================================
+# [PLAYERS] - OYUNCU KADROLARI, YAŞ, REYTİNG VE POZİSYONLARI (1992/93)
+# Pozisyonlar: GK (Kaleci), DF (Defans), MF (Orta Saha), ATT (Forvet)
+# ====================================================================
+[PLAYERS]
+
+# --- GALATASARAY (TR_T1_1) ---
+PLAYER, TR_T1_1, Hayrettin Demirbaş, 29, 78, GK
+PLAYER, TR_T1_1, Reinhard Stumpf, 27, 80, DF
+PLAYER, TR_T1_1, Bülent Korkmaz, 24, 83, DF
+PLAYER, TR_T1_1, Mert Korkmaz, 21, 75, DF
+PLAYER, TR_T1_1, Tugay Kerimoğlu, 22, 85, MF
+PLAYER, TR_T1_1, Suat Kaya, 25, 80, MF
+PLAYER, TR_T1_1, Hamza Hamzaoğlu, 22, 78, MF
+PLAYER, TR_T1_1, Okan Buruk, 19, 79, MF
+PLAYER, TR_T1_1, Hakan Şükür, 21, 84, ATT
+PLAYER, TR_T1_1, Torsten Gütschow, 30, 79, ATT
+PLAYER, TR_T1_1, Erdal Keser, 31, 81, ATT
+
+# --- BEŞİKTAŞ (TR_T1_2) ---
+PLAYER, TR_T1_2, Jaroslaw Bako, 28, 77, GK
+PLAYER, TR_T1_2, Ulvi Güveneroğlu, 31, 79, DF
+PLAYER, TR_T1_2, Recep Çetin, 27, 81, DF
+PLAYER, TR_T1_2, Gökhan Keskin, 26, 80, DF
+PLAYER, TR_T1_2, Rıza Çalımbay, 29, 83, MF
+PLAYER, TR_T1_2, Mehmet Özdilek, 26, 86, MF
+PLAYER, TR_T1_2, Sergen Yalçın, 19, 83, MF
+PLAYER, TR_T1_2, Metin Tekin, 28, 83, ATT
+PLAYER, TR_T1_2, Ali Gültiken, 27, 82, ATT
+PLAYER, TR_T1_2, Feyyaz Uçar, 29, 85, ATT
+
+# --- FENERBAHÇE (TR_T1_4) ---
+PLAYER, TR_T1_4, Engin İpekoğlu, 31, 79, GK
+PLAYER, TR_T1_4, Rüştü Reçber, 19, 75, GK
+PLAYER, TR_T1_4, Uche Okechukwu, 24, 82, DF
+PLAYER, TR_T1_4, İlker Yağcıoğlu, 26, 78, DF
+PLAYER, TR_T1_4, Müjdat Yetkiner, 31, 77, DF
+PLAYER, TR_T1_4, Oğuz Çetin, 29, 85, MF
+PLAYER, TR_T1_4, Gérson Caçapa, 25, 81, MF
+PLAYER, TR_T1_4, Hakan Tecimer, 25, 78, MF
+PLAYER, TR_T1_4, Aykut Kocaman, 27, 85, ATT
+PLAYER, TR_T1_4, Tanju Çolak, 28, 86, ATT
+PLAYER, TR_T1_4, Rıdvan Dilmen, 29, 84, ATT
+
+# --- AC MILAN (ITA_T1_1) ---
+PLAYER, ITA_T1_1, Sebastiano Rossi, 28, 85, GK
+PLAYER, ITA_T1_1, Paolo Maldini, 23, 96, DF
+PLAYER, ITA_T1_1, Franco Baresi, 31, 95, DF
+PLAYER, ITA_T1_1, Alessandro Costacurta, 26, 91, DF
+PLAYER, ITA_T1_1, Mauro Tassotti, 32, 88, DF
+PLAYER, ITA_T1_1, Frank Rijkaard, 29, 93, MF
+PLAYER, ITA_T1_1, Demetrio Albertini, 20, 88, MF
+PLAYER, ITA_T1_1, Roberto Donadoni, 28, 90, MF
+PLAYER, ITA_T1_1, Ruud Gullit, 29, 94, ATT
+PLAYER, ITA_T1_1, Marco van Basten, 27, 96, ATT
+PLAYER, ITA_T1_1, Jean-Pierre Papin, 28, 92, ATT
+
+# --- JUVENTUS (ITA_T1_4) ---
+PLAYER, ITA_T1_4, Angelo Peruzzi, 22, 88, GK
+PLAYER, ITA_T1_4, Jürgen Kohler, 26, 91, DF
+PLAYER, ITA_T1_4, Carrera Massimo, 28, 83, DF
+PLAYER, ITA_T1_4, Antonio Conte, 23, 84, MF
+PLAYER, ITA_T1_4, Andreas Möller, 24, 89, MF
+PLAYER, ITA_T1_4, Dino Baggio, 21, 86, MF
+PLAYER, ITA_T1_4, Roberto Baggio, 25, 95, ATT
+PLAYER, ITA_T1_4, Gianluca Vialli, 28, 92, ATT
+PLAYER, ITA_T1_4, Fabrizio Ravanelli, 23, 85, ATT
+
+# --- FC BARCELONA (ESP_T1_1) ---
+PLAYER, ESP_T1_1, Andoni Zubizarreta, 30, 89, GK
+PLAYER, ESP_T1_1, Ronald Koeman, 29, 92, DF
+PLAYER, ESP_T1_1, Albert Ferrer, 22, 85, DF
+PLAYER, ESP_T1_1, Miguel Ángel Nadal, 25, 86, DF
+PLAYER, ESP_T1_1, Pep Guardiola, 21, 90, MF
+PLAYER, ESP_T1_1, Jose Mari Bakero, 29, 87, MF
+PLAYER, ESP_T1_1, Guillermo Amor, 24, 86, MF
+PLAYER, ESP_T1_1, Michael Laudrup, 27, 93, MF
+PLAYER, ESP_T1_1, Hristo Stoichkov, 26, 94, ATT
+PLAYER, ESP_T1_1, Txiki Begiristain, 27, 86, ATT
+
+# --- REAL MADRID (ESP_T1_2) ---
+PLAYER, ESP_T1_2, Francisco Buyo, 34, 86, GK
+PLAYER, ESP_T1_2, Fernando Hierro, 24, 92, DF
+PLAYER, ESP_T1_2, Manuel Sanchís, 27, 89, DF
+PLAYER, ESP_T1_2, Míchel, 29, 88, MF
+PLAYER, ESP_T1_2, Luis Enrique, 22, 85, MF
+PLAYER, ESP_T1_2, Robert Prosinečki, 23, 89, MF
+PLAYER, ESP_T1_2, Ivan Zamorano, 25, 91, ATT
+PLAYER, ESP_T1_2, Emilio Butragueño, 29, 90, ATT
+
+# --- MANCHESTER UNITED (ENG_T1_1) ---
+PLAYER, ENG_T1_1, Peter Schmeichel, 28, 93, GK
+PLAYER, ENG_T1_1, Gary Pallister, 27, 86, DF
+PLAYER, ENG_T1_1, Steve Bruce, 31, 85, DF
+PLAYER, ENG_T1_1, Denis Irwin, 26, 87, DF
+PLAYER, ENG_T1_1, Paul Ince, 24, 86, MF
+PLAYER, ENG_T1_1, Roy Keane, 21, 85, MF
+PLAYER, ENG_T1_1, Ryan Giggs, 18, 88, MF
+PLAYER, ENG_T1_1, Bryan Robson, 35, 84, MF
+PLAYER, ENG_T1_1, Eric Cantona, 26, 93, ATT
+PLAYER, ENG_T1_1, Mark Hughes, 28, 88, ATT
+
+# --- AJAX AMSTERDAM (NED_T1_3) ---
+PLAYER, NED_T1_3, Edwin van der Sar, 21, 85, GK
+PLAYER, NED_T1_3, Danny Blind, 30, 88, DF
+PLAYER, NED_T1_3, Frank de Boer, 22, 86, DF
+PLAYER, NED_T1_3, Wim Jonk, 25, 84, MF
+PLAYER, NED_T1_3, Edgar Davids, 19, 85, MF
+PLAYER, NED_T1_3, Clarence Seedorf, 16, 81, MF
+PLAYER, NED_T1_3, Jari Litmanen, 21, 90, MF
+PLAYER, NED_T1_3, Marc Overmars, 19, 87, ATT
+PLAYER, NED_T1_3, Dennis Bergkamp, 23, 93, ATT
